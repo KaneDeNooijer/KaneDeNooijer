@@ -34,7 +34,7 @@ Of course that doesn't mean that there aren't other counties that play Korfbal, 
 No, this page is only for people who want to see my projects.
 I will NOT take any online commissions, all my projects are made for school or for fun!
 
-# ⌨️ Will you implement code from other people via commits?
+# ⌨️ Will you implement code from other people?
 Take a look at the readme file in a repository.
 If the file DOESN'T state anything about being open for outside commits, code, etc, then don't try to send any commits, 
 I WILL ignore or decline them!
