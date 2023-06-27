@@ -36,8 +36,8 @@ I will NOT take any online commissions, all my projects are made for school or f
 
 # ⌨️ Will you implement code from other people?
 Take a look at the readme file in a repository.
-If the file DOESN'T state anything about being open for outside commits, code, etc, then don't try to send any commits, 
-I WILL ignore or decline them!
+If the file DOESN'T state anything about being open for outside commits, code, etc, then don't bother trying to send any commits, 
+I WILL ignore them!
 
 # 🖥️ What can I find on your GitHub page?
 I'll post my own and school projects on this page, and since you (hopefully) read this entire introduction, why not take a quick look!
