@@ -12,5 +12,5 @@ I enjoy the creative process, especially problem-solving and seeing ideas come t
 - **Music Creation**: Inspired by *Toby Fox* and the *Undertale/Deltarune* community, I compose music that tells a story.
 
 ### 📈 Statistics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneDeNooijer&theme=dark&show_icons=true&hide=stars,contribs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneDeNooijer&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&line_height=24&hide=stars,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneDeNooijer&theme=dark&layout=compact)
