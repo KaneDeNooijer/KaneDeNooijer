@@ -11,6 +11,5 @@ I enjoy the creative process, especially problem-solving and seeing ideas come t
 - **Game Development**: Bringing ideas to life with code and creativity, some games that inspire me are *Civilization*, *RimWorld*, *Minecraft* and many others.
 - **Music Creation**: Inspired by *Toby Fox* and the *Undertale/Deltarune* community, I compose music that tells a story.
 
-### 📈 Statistics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneDeNooijer&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&line_height=24&hide=stars,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneDeNooijer&theme=dark&layout=compact)
+![Generic statistics](https://github-readme-stats.vercel.app/api?username=KaneDeNooijer&theme=dark&custom_title=Generic%20statistics&show_icons=true&hide_rank=true&include_all_commits=true&line_height=24&hide=stars,contribs)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneDeNooijer&theme=dark&custom_title=Most%20used%20languages&layout=compact)
